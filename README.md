@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hola!</h1>
-
+<br>
 <p align="center"> <a href="https://github.com/luciasoraire"><img src="https://github-profile-trophy.vercel.app/?username=luciasoraire&ryo-ma&no-bg=true&row=1&column=6&theme=tokyonight" alt="luciasoraire" /></a> </p>
 <img align="center" src="https://media.giphy.com/media/fH3wgGZCXNg8tyq56H/giphy.gif" alt="luciasoraire" height="430" width="845"/>
 <br>
