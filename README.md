@@ -5,8 +5,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luciasoraire&theme=dracula&hide_border=false&hide_title=true&bg_color=none&color=FFFFFF&line=8BE9FD&point=BF91F3&area_color=FFFFFF&area=true)](https://github.com/luciasoraire)
 
-| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciasoraire&show_icons=true&theme=city_lights&bg_color=0A0C10&title_color=FF79C6&icon_color=FF79C6&include_all_commits=true&disable_animations=false&show_owner=false&text_color=FFFFFF&hide_border=true) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luciasoraire&theme=city-lights&hide_border=true&background=0A0C10&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF) |
-| :---: | :---: |
 
 <img align="center" src="https://media.giphy.com/media/fH3wgGZCXNg8tyq56H/giphy.gif" alt="luciasoraire" width="100%"/>
 <br>
