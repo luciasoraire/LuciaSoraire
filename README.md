@@ -1,10 +1,14 @@
 
 <h1 align="center">¡Hola!</h1>
-<img align="center" src="https://media.giphy.com/media/8ztHXK22SB15LQjRir/giphy.gif" alt="luciasoraire" width="100%"/>
+<img align="center" src="https://media.giphy.com/media/4oTnZKTvAXllLmmpij/giphy.gif" alt="luciasoraire" width="100%"/>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luciasoraire&theme=dracula&hide_border=false&hide_title=true&bg_color=none&color=FFFFFF&line=8BE9FD&point=BF91F3&area_color=FFFFFF&area=true)](https://github.com/luciasoraire)
+
+
 <p align="center"> <a href="https://github.com/luciasoraire"><img src="https://github-profile-trophy.vercel.app/?username=luciasoraire&ryo-ma&no-bg=true&row=1&column=6&theme=tokyonight&margin-w=15" alt="luciasoraire" /></a> </p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luciasoraire&theme=dracula&hide_border=false&hide_title=true&bg_color=none&color=FFFFFF&line=8BE9FD&point=BF91F3&area_color=FFFFFF&area=true)](https://github.com/luciasoraire)
+
 
 
 
