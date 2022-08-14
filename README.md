@@ -1,4 +1,3 @@
-<h1 align="center">¡Hola!</h1>
 <img align="center" src="https://media.giphy.com/media/Ylb79r66MKeHKbLk3i/giphy.gif" width="100%" alt="luciasoraire"/>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luciasoraire&theme=dracula&hide_border=false&hide_title=true&bg_color=none&color=70A5FD&line=8BE9FD&point=BF91F3&area_color=FFFFFF&area=true)](https://github.com/luciasoraire)
