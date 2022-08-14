@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/luciasoraire"><img src="https://github-profile-trophy.vercel.app/?username=luciasoraire&ryo-ma&no-bg=true&row=1&column=6&theme=dracula" alt="luciasoraire" /></a> </p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luciasoraire&theme=dracula&hide_border=true&hide_title=true&bg_color=none)](https://github.com/luciasoraire)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luciasoraire&theme=dracula&hide_border=false&hide_title=true&bg_color=none&color=FFFFFF&line=FF79C3&point=6272A4&area_color=FFFFFF&area=true)](https://github.com/luciasoraire)
 
 <img align="center" src="https://media.giphy.com/media/fH3wgGZCXNg8tyq56H/giphy.gif" alt="luciasoraire" width="100%"/>
 <br>
