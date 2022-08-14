@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hola!</h1>
-<p align="center"> <a href="https://github.com/luciasoraire"><img src="https://github-profile-trophy.vercel.app/?username=luciasoraire&ryo-ma&no-bg=true&row=1&column=6&theme=tokyonight" alt="luciasoraire" /></a> </p>
+<p align="center"> <a href="https://github.com/luciasoraire"><img src="https://github-profile-trophy.vercel.app/?username=luciasoraire&ryo-ma&no-bg=true&row=1&column=6&theme=dracula" alt="luciasoraire" /></a> </p>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luciasoraire&theme=dracula&hide_border=true&hide_title=true&bg_color=none)](https://github.com/luciasoraire)
