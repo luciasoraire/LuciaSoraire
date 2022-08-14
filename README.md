@@ -1,4 +1,3 @@
-
 <h1 align="center">¡Hola!</h1>
 <img align="center" src="https://media.giphy.com/media/Ylb79r66MKeHKbLk3i/giphy.gif" width="100%" alt="luciasoraire"/>
 
