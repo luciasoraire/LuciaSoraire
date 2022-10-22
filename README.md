@@ -1,6 +1,6 @@
 <div align = 'center'>
 
-![header](https://capsule-render.vercel.app/api?height=30&type=transparent&text=Hello,%20world!&animation=twinkling&fontColor=B2BBED&fontSize=30)
+![header](https://capsule-render.vercel.app/api?height=30&type=transparent&text=Hello,%20world!&animation=scaleIn&fontColor=B2BBED&fontSize=30)
 </p>
 
 <img align="center" src="https://media.giphy.com/media/Ylb79r66MKeHKbLk3i/giphy.gif" width="100%" alt="luciasoraire"/>
