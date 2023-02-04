@@ -7,7 +7,7 @@
 
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciasoraire&locale=es&bg_color=FCF5EB&area=true&title_color=000000&hide_title=true&color=E2BE8D&&line=F5AD8F&point=E69677&area_color=D0AF82&border_color=000000)](https://github.com/luciasoraire/github-readme-activity-graph)
-
+|[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciasoraire&locale=es&bg_color=FCF5EB&area=true&title_color=E2BE8D&custom_title=Gráfico%20de%20Contribuciones&color=E2BE8D&&line=F5CDBD&point=E6A992&area_color=DBAF72&border_color=000000)](https://github.com/luciasoraire/github-readme-activity-graph)|
+| :---: |
   
 
