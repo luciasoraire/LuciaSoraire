@@ -17,7 +17,7 @@
 <img align='center' src="https://i.postimg.cc/Hx2Tgxrk/Sin-t-tulo.png" width="100%"> <br> 
 | :---: |
 
- <img align='right' src="https://media.giphy.com/media/wjwjxLs3JEtX3AntlB/giphy.gif" width="450"> | <p align="justify-center">Proyecto realizado durante el cursado de Codo a Codo 4.0. <br> El código debía contener al menos 4 páginas HTML siendo su temática libre y en grupo de a 3. Decidimos desarrollar el sitio web de Laualú, Graphic Design & Digital Illustration; su nombre surgió por la fusión de los nombres de los integrantes, Laureano, Alexis y Lucía. La estructura contiene CSS, FlexBox y Grid, iconos, formulario validado con JavaScript y API Rest. El proyecto fue destacado por nuestra docente Paola Romero. *Accedé a la demo del proyecto [aquí](https://laualu.netlify.app/)*. <br> ¡Espero que les guste tanto como a mi! |
+ <img align='right' src="https://media.giphy.com/media/wjwjxLs3JEtX3AntlB/giphy.gif" width="400"> | <p align="justify-center">Proyecto realizado durante el cursado de Codo a Codo 4.0. <br> El código debía contener al menos 4 páginas HTML siendo su temática libre y en grupo de a 3. Decidimos desarrollar el sitio web de Laualú, Graphic Design & Digital Illustration; su nombre surgió por la fusión de los nombres de los integrantes, Laureano, Alexis y Lucía. La estructura contiene CSS, FlexBox y Grid, iconos, formulario validado con JavaScript y API Rest. El proyecto fue destacado por nuestra docente Paola Romero. *Accedé a la demo del proyecto [aquí](https://laualu.netlify.app/)*. <br> ¡Espero que les guste tanto como a mi! |
 | :---: | :---: |
   
  
