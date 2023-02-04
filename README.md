@@ -7,11 +7,11 @@
 
 </div>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luciasoraire&theme=radical&locale=es&background=FFF6F6&ring=E2BE8D&fire=E2BE8D&currStreakNum=E2BE8D&currStreakLabel=E2BE8D&sideNums=E2BE8D&stroke=E2BE8D&sideLabels=E2BE8D&dates=E2BE8D)](https://git.io/streak-stats) | ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciasoraire&show_icons=true&locale=es&theme=react&bg_color=E2BE8D&title_color=FFF6F6&text_color=FFF6F6&icon_color=FFF6F6) |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luciasoraire&theme=radical&locale=es&background=9B673A&ring=E0D9CA&fire=E0D9CA&currStreakNum=E0D9CA&currStreakLabel=E0D9CA&sideNums=E0D9CA&stroke=E0D9CA&sideLabels=E0D9CA&dates=E0D9CA&hide_border=true)](https://git.io/streak-stats) | ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciasoraire&show_icons=true&locale=es&theme=react&bg_color=A1B7BE&title_color=FFF6F6&text_color=FFF6F6&icon_color=D2DEE5) |
 | :---: | :---: |
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciasoraire&locale=es&bg_color=FCF5EB&area=true&title_color=E2BE8D&custom_title=Gráfico%20de%20Contribuciones&color=E2BE8D&&line=F5CDBD&point=E6A992&area_color=DBAF72&border_color=000000)](https://github.com/luciasoraire/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciasoraire&locale=es&bg_color=878F6B&area=true&title_color=DAE5CA&custom_title=Gráfico%20de%20Contribuciones&color=DAE5CA&hide_border=true&line=DAE5CA&point=DAE5CA&area_color=DFECCF)](https://github.com/luciasoraire/github-readme-activity-graph)
 | :---: |
   
 
