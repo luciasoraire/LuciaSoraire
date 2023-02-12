@@ -14,10 +14,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciasoraire&locale=es&bg_color=D3BCAE&area=true&title_color=FFF6F6&custom_title=Gráfico%20de%20Contribuciones&color=FFF6F6&hide_border=true&line=FFF6F6&point=FFF6F6&area_color=DFECCF)](https://github.com/luciasoraire/github-readme-activity-graph)
 | :---: |
   
-<img align='center' src="https://i.postimg.cc/Hx2Tgxrk/Sin-t-tulo.png" width="100%"> <br> 
-| :---: |
 
- <img align='right' src="https://media.giphy.com/media/wjwjxLs3JEtX3AntlB/giphy.gif" width="400"> | <p align="justify-center">Proyecto realizado durante el cursado de Codo a Codo 4.0. <br> El código debía contener al menos 4 páginas HTML siendo su temática libre y en grupo de a 3. Decidimos desarrollar el sitio web de Laualú, Graphic Design & Digital Illustration; su nombre surgió por la fusión de los nombres de los integrantes, Laureano, Alexis y Lucía. La estructura contiene CSS, FlexBox y Grid, iconos, formulario validado con JavaScript y API Rest. El proyecto fue destacado por nuestra docente Paola Romero. *Accedé a la demo del proyecto [aquí](https://laualu.netlify.app/)*. <br> ¡Espero que les guste tanto como a mi! |
+ <img align='right' src="https://i.ibb.co/3MdKGSP/imagen-2023-02-12-152313300.png" width="5900"> | <p align="justify-center">Proyecto realizado durante el cursado de Codo a Codo 4.0. <br> El código debía contener al menos 4 páginas HTML siendo su temática libre y en grupo de a 3. Decidimos desarrollar el sitio web de Laualú, Graphic Design & Digital Illustration; su nombre surgió por la fusión de los nombres de los integrantes, Laureano, Alexis y Lucía. La estructura contiene CSS, FlexBox y Grid, iconos, formulario validado con JavaScript y API Rest. El proyecto fue destacado por nuestra docente Paola Romero. *Accedé a la demo del proyecto [aquí](https://laualu.netlify.app/)*. <br> ¡Espero que les guste tanto como a mi! |
 | :---: | :---: |
   
  
