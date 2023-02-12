@@ -14,7 +14,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciasoraire&locale=es&bg_color=D3BCAE&area=true&title_color=FFF6F6&custom_title=Gráfico%20de%20Contribuciones&color=FFF6F6&hide_border=true&line=FFF6F6&point=FFF6F6&area_color=DFECCF)](https://github.com/luciasoraire/github-readme-activity-graph)
 | :---: |
   
- <img align='right' src="https://i.ibb.co/q1Nw4Zt/ZZ.png" width="1200"> | <p align="justify-center">Proyecto realizado durante el cursado de Codo a Codo 4.0. <br> La estructura contiene CSS, FlexBox y Grid, formulario validado con JS y API Rest. El proyecto fue destacado por nuestra docente Paola Romero. *Accedé a la demo [aquí](https://laualu.netlify.app/)*. <br> ¡Espero que les guste tanto como a mi! |
+ <img align='right' src="https://i.ibb.co/YpWJz08/ZZ.png" width="1200"> | <p align="justify-center">Proyecto realizado durante el cursado de Codo a Codo 4.0. <br> La estructura contiene CSS, FlexBox y Grid, formulario validado con JS y API Rest. El proyecto fue destacado por nuestra docente Paola Romero. *Accedé a la demo [aquí](https://laualu.netlify.app/)*. <br> ¡Espero que les guste tanto como a mi! |
 | :---: | :---: |
   
  
