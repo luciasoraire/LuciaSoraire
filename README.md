@@ -6,10 +6,10 @@
   
 
 </div>
+
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luciasoraire&theme=radical&locale=es&background=dbbb8c&ring=eee9e3&fire=eee9e3&currStreakNum=eee9e3&currStreakLabel=eee9e3&sideNums=eee9e3&stroke=eee9e3&sideLabels=eee9e3&dates=eee9e3&hide_border=true)](https://git.io/streak-stats) | ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciasoraire&show_icons=true&locale=es&theme=react&bg_color=B3B8AA&title_color=eee9e3&text_color=eee9e3&icon_color=eee9e3) |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luciasoraire&theme=radical&locale=es&background=dbbb8c&ring=eee9e3&fire=eee9e3&currStreakNum=eee9e3&currStreakLabel=eee9e3&sideNums=eee9e3&stroke=eee9e3&sideLabels=eee9e3&dates=eee9e3&hide_border=true)](https://git.io/streak-stats) |  ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciasoraire&show_icons=true&locale=es&theme=react&bg_color=B3B8AA&title_color=eee9e3&text_color=eee9e3&icon_color=eee9e3) |
 | :---: | :---: |
-  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luciasoraire&locale=es&bg_color=D3BCAE&area=true&title_color=eee9e3&custom_title=Gráfico%20de%20Contribuciones&color=eee9e3&hide_border=true&line=eee9e3&point=eee9e3&area_color=ffffff)](https://github.com/luciasoraire/github-readme-activity-graph)
 | :---: |
