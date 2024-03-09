@@ -1,6 +1,6 @@
 <div align="center">
   
-![Python](https://img.shields.io/badge/Python-eee9e3?style=for-the-badge&logo=python&logoColor=e0c1b1) ![html](https://img.shields.io/badge/HTML5-D3BCAE?style=for-the-badge&logo=html5&logoColor=eee9e3) ![react](https://img.shields.io/badge/React-dbbb8c?style=for-the-badge&logo=react&logoColor=FFF6F6) ![Javascript](https://img.shields.io/badge/JavaScript-c9cbb6?style=for-the-badge&logo=javascript&logoColor=FFF) ![C#](https://img.shields.io/badge/C%23-b2ad83?style=for-the-badge&logo=C%20sharp&logoColor=eee9e3) ![bootstrap](https://img.shields.io/badge/Bootstrap-bfd0d8?style=for-the-badge&logo=bootstrap&logoColor=eee9e3) ![css](https://img.shields.io/badge/CSS3-a3bacc?style=for-the-badge&logo=css3&logoColor=eee9e3) ![angular](https://img.shields.io/badge/Angular-879db2?style=for-the-badge&logo=angular&logoColor=eee9e3) 
+![Python](https://img.shields.io/badge/Python-EFEBE5?style=for-the-badge&logo=python&logoColor=302F2E) ![html](https://img.shields.io/badge/HTML5-302F2E?style=for-the-badge&logo=html5&logoColor=EFEBE5) ![react](https://img.shields.io/badge/React-1B37B2?style=for-the-badge&logo=react&logoColor=FFF6F6) ![Javascript](https://img.shields.io/badge/JavaScript-F23606?style=for-the-badge&logo=javascript&logoColor=EFEBE5) ![bootstrap](https://img.shields.io/badge/Bootstrap-CFF24E?style=for-the-badge&logo=bootstrap&logoColor=302F2E)	![C#](https://img.shields.io/badge/c%23-%23302F2E.svg?style=for-the-badge&logo=csharp&logoColor=white) ![css](https://img.shields.io/badge/CSS3-FE76B4?style=for-the-badge&logo=css3&logoColor=eee9e3) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 | :---: |
 
   
@@ -8,13 +8,13 @@
 </div>
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luciasoraire&theme=radical&locale=es&background=dbbb8c&ring=eee9e3&fire=eee9e3&currStreakNum=eee9e3&currStreakLabel=eee9e3&sideNums=eee9e3&stroke=eee9e3&sideLabels=eee9e3&dates=eee9e3&hide_border=true)](https://git.io/streak-stats)|![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciasoraire&show_icons=true&locale=es&theme=react&bg_color=B3B8AA&title_color=eee9e3&text_color=eee9e3&icon_color=eee9e3) |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luciasoraire&theme=radical&locale=en&background=CFF24E&ring=302F2E&fire=302F2E&currStreakNum=302F2E&currStreakLabel=302F2E&sideNums=302F2E&stroke=302F2E&sideLabels=302F2E&dates=302F2E&hide_border=true)](https://git.io/streak-stats)|![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciasoraire&show_icons=true&locale=en&theme=react&bg_color=1B37B2&title_color=eee9e3&text_color=eee9e3&icon_color=eee9e3) |
 | :---: | :---: |
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luciasoraire&locale=es&bg_color=D3BCAE&area=true&title_color=eee9e3&custom_title=Gráfico%20de%20Contribuciones&color=eee9e3&hide_border=true&line=eee9e3&point=eee9e3&area_color=ffffff)](https://github.com/luciasoraire/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luciasoraire&locale=en&bg_color=FE76B4&area=true&title_color=eee9e3&custom_title=Contribution%20Graph&color=eee9e3&hide_border=true&line=eee9e3&point=eee9e3&area_color=ffffff)](https://github.com/luciasoraire/github-readme-activity-graph)
 | :---: |
   
- <img align='right' src="https://i.ibb.co/YpWJz08/ZZ.png" width="1200"> | <p align="justify-center">Proyecto realizado durante el cursado de Codo a Codo 4.0. <br> La estructura contiene CSS, FlexBox y Grid, formulario validado con JS y API Rest. El proyecto fue destacado por nuestra docente Paola Romero. *Accedé a la demo [aquí](https://laualu.netlify.app/)*. <br> ¡Espero que les guste tanto como a mi! |
+ <img align='center' src="https://i.ibb.co/QY9ZpnQ/Dise-o-sin-t-tulo-1.png" width="3800"> | <p align="justify-center">*Hello everyone!*<br><br> I'm the #1 fan of CSS, that's why I created an [Instagram](https://www.instagram.com/codingwithlucia) account where I upload information and innovative tutorials to enhance your website, transforming ideas into visual magic. I post #creativecoding every day. All codes are available in CodingWithLucia [repository.](https://github.com/luciasoraire/CodingWithLucy) Your follow would mean a lot to me, thank you for your support.<br> |
 | :---: | :---: |
   
  
