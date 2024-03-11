@@ -14,7 +14,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luciasoraire&locale=en&bg_color=FE76B4&area=true&title_color=eee9e3&custom_title=Contribution%20Graph&color=eee9e3&hide_border=true&line=eee9e3&point=eee9e3&area_color=ffffff)](https://github.com/luciasoraire/github-readme-activity-graph)
 | :---: |
   
- <img align='center' src="https://i.ibb.co/QY9ZpnQ/Dise-o-sin-t-tulo-1.png" width="3800"> | <p align="justify-center">*Hello everyone!*<br><br> I'm the #1 fan of CSS, that's why I created an [Instagram](https://www.instagram.com/codingwithlucia) account where I upload information and innovative tutorials to enhance your website, transforming ideas into visual magic. I post #creativecoding every day. All codes are available in CodingWithLucia [repository.](https://github.com/luciasoraire/CodingWithLucy) Your follow would mean a lot to me, thank you for your support.<br> |
+ <img align='center' src="https://i.ibb.co/QY9ZpnQ/Dise-o-sin-t-tulo-1.png" width="3800"> | <p align="justify-center">*Hello everyone!*<br><br> I'm a CSS enthusiast, that's why I created an [Instagram](https://www.instagram.com/codingwithlucia) account where I upload information and innovative tutorials to enhance your website, transforming ideas into visual magic. I post #creativecoding every day. All codes are available in CodingWithLucia [repository.](https://github.com/luciasoraire/CodingWithLucy) Your follow would mean a lot to me, thank you for your support.<br> |
 | :---: | :---: |
   
  
